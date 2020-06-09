@@ -2978,3 +2978,134 @@ The time when the execution of the script finished: 09-03-2020 15:17:56
 
 [=======================================================================]
 
+The time when the script was started: 09-06-2020 20:39:59
+
+
+
+To the table arts_rmf24 no new articles have been added
+
+
+To the table arts_komputerswiat no new articles have been added
+
+
+To the table arts_xmoon no new articles have been added
+
+
+The time when the execution of the script finished: 09-06-2020 20:40:00
+
+[=======================================================================]
+
+The time when the script was started: 09-06-2020 20:48:06
+
+
+Now, that is: 09-06-2020 20:48:07 article(s) was added 
+To the table arts_rmf24 with unique id's:
+4544864
+4544624
+4544458
+4542776
+4542715Now, that is: 09-06-2020 20:48:09 article(s) was added 
+To the table arts_komputerswiat with unique id's:
+urn:uuid:b0adfe19-c360-4724-a68c-ea01a10b5da7
+urn:uuid:7458b460-67e8-4e9b-9f27-640270db53c4
+urn:uuid:a7416439-897d-492b-993f-694eb4b8d1b4
+urn:uuid:3360ecda-6358-40d9-b300-df0a59668b04
+urn:uuid:77a4655d-a3f1-4ba6-a429-e7fcb56c6375
+To the table arts_xmoon no new articles have been added
+
+
+The time when the execution of the script finished: 09-06-2020 20:48:10
+
+[=======================================================================]
+
+The time when the script was started: 09-06-2020 20:51:04
+
+
+
+To the table arts_rmf24 no new articles have been added
+
+
+To the table arts_komputerswiat no new articles have been added
+
+
+To the table arts_xmoon no new articles have been added
+
+
+The time when the execution of the script finished: 09-06-2020 20:51:05
+
+[=======================================================================]
+
+The time when the script was started: 09-06-2020 20:52:42
+
+
+Now, that is: 09-06-2020 20:52:43 article(s) was added 
+To the table arts_rmf24 with unique id's:
+4544864
+4544624
+4544458
+4542776
+4542715Now, that is: 09-06-2020 20:52:45 article(s) was added 
+To the table arts_komputerswiat with unique id's:
+urn:uuid:b0adfe19-c360-4724-a68c-ea01a10b5da7
+urn:uuid:7458b460-67e8-4e9b-9f27-640270db53c4
+urn:uuid:a7416439-897d-492b-993f-694eb4b8d1b4
+urn:uuid:3360ecda-6358-40d9-b300-df0a59668b04
+urn:uuid:77a4655d-a3f1-4ba6-a429-e7fcb56c6375
+To the table arts_xmoon no new articles have been added
+
+
+The time when the execution of the script finished: 09-06-2020 20:52:45
+
+[=======================================================================]
+
+The time when the script was started: 09-06-2020 20:52:59
+
+
+
+To the table arts_rmf24 no new articles have been added
+
+
+To the table arts_komputerswiat no new articles have been added
+
+
+To the table arts_xmoon no new articles have been added
+
+
+The time when the execution of the script finished: 09-06-2020 20:53:00
+
+[=======================================================================]
+
+The time when the script was started: 09-06-2020 20:53:03
+
+
+
+To the table arts_rmf24 no new articles have been added
+
+
+To the table arts_komputerswiat no new articles have been added
+
+
+To the table arts_xmoon no new articles have been added
+
+
+The time when the execution of the script finished: 09-06-2020 20:53:04
+
+[=======================================================================]
+
+The time when the script was started: 09-06-2020 20:53:04
+
+
+
+To the table arts_rmf24 no new articles have been added
+
+
+To the table arts_komputerswiat no new articles have been added
+
+
+To the table arts_xmoon no new articles have been added
+
+
+The time when the execution of the script finished: 09-06-2020 20:53:05
+
+[=======================================================================]
+

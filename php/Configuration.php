@@ -28,7 +28,6 @@ $_ENV['arts_xmoon'] = "<br><br>Artykuły z xmoon.pl:<br><br>";
 //Errors:
 $_ENV['user.blocked.fail'] = "Blocking fail.";
 $_ENV['internal'] = "Internal error. Site temporarily blocked.";
-$_ENV['redirect'] = "Location: exambport.cba.pl/index.php";
 $_ENV['query'] = "Location: https://duckduckgo.com?q=Do+not+append+any+query+to+URL&ia=software";
 $_ENV['destination'] = 'Location: https://duckduckgo.com?q=You+are+blocked+for+too+much+refreshing+page&ia=software';
 $_ENV['rss.503'] = "<br>Strona z RSS nie odpowiada.<br>";

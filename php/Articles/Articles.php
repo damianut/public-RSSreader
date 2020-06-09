@@ -303,11 +303,12 @@ class Articles
             $k = sizeof($articles);
           }
         }
+        $partOfMsg = $numArtsAdd ?? '';
         $clientMessage = 
             "Pozycja najnowszego artykułu z bazy, wśród artykułów z ".
             $uri.
             ": ".
-            $numArtsAdd ?? ''.
+            $partOfMsg.
             "<br>Jeśli nie pojawił się numer pozycji, to najnowszy artykuł z bazy,".
             " nie jest żadnym z artykułów obecnie dostępnych na stronie ".
             "zewnętrznej.<br>"
@@ -316,7 +317,7 @@ class Articles
          * If position of article won't determine, assign '6' value to below
          * variable in purpose of deleting all articles from table from database.
          */
-        if ($numArtsAdd === NULL) {
+        if (!isset($numArtsAdd)) {
           $numArtsAdd = 6;
         }
         /**

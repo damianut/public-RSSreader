@@ -27,10 +27,10 @@ $_ENV['DB_PASS'] = {jego hasło};
 Gdzie zamiast {adres hosta}, {nazwa użytkownika}, {jego hasło} należy wpisać odpowiednio
 adres swojego hosta, nazwę użytkownika z wszystkimi uprawnieniami do bazy `rss_reader` oraz jego hasło.
 
-2.6. Zmienić uprawnienia do pliku "accesslog/accesslog.txt" na odczytać i zapis dla wszystkich osób.
+2.6. Zmienić uprawnienia do pliku "accesslog/accesslog.txt" na odczyt i zapis dla wszystkich osób.
 
 2.7. Jeśli serwer HTTP i serwer MySQL są uruchomione, można uruchomić stronę wchodząc pod adres:
-'http://adres_hosta/RSSreader'
+'http://adres_hosta/public-RSSreader'
 gdzie 'adres_hosta', to wartość zmiennej $_ENV['DB_HOST'].
 
 
@@ -39,7 +39,7 @@ gdzie 'adres_hosta', to wartość zmiennej $_ENV['DB_HOST'].
 Użytkownik uruchamiając tę stronę uruchamia plik PHP, który pobiera pliki XML z trzech określonych stron internetowych.
 Następnie sprawdza, czy pojawiły się artykuły na tych stronach nowsze, niż są w bazie danych mySQL. 
 Jeśli tak, to baza danych jest uaktualniana.
-Następnie na stronie wyświetlane są najnowszej artykuły zapisane w bazie danych.
+Następnie na stronie wyświetlane są najnowsze artykuły zapisane w bazie danych.
 
 
 4) SZCZEGÓŁOWA ZASADA DZIAŁANIA I DODATKOWE FUNKCJE:
